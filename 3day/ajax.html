@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<!--第一步 引入jquery-->
+<script src="js/jquery-1.11.2.min.js"></script>
+<script>
+
+    //第二步 使用ajax -- 直接$.ajax({}) 就可以直接使用
+    $.ajax({
+        type : "POST",
+        url : "https://api.apishop.net/common/verify/getComplicateVerifyImage",  //请求的数据地址，后台地址
+        data : {   //data里面放的要发送的数据， 数据的格式是键值对
+            apiKey : "PxPlhAH1fedfa9cb4057fbfb2bc891f76796c58f6ccb4e1",
+            codeType : 1
+        },
+        success : function (response) {  //如果数据请求成功，就是执行success函数，函数里面的resposne参数就是用来接收后台返回的数据
+            console.log(JSON.parse(response))
+        },
+        error : function (error) {  //如何数据请求失败，则会执行error函数
+            console.log(error)
+        }
+    })
+
+
+</script>

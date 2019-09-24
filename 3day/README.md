@@ -31,7 +31,9 @@
     对数据进行遍历渲染
 
 https://img20.360buyimg.com/babel/s1920x740_jfs/t1/52978/3/11430/62079/5d8345a0Eb03acfec/387156d6c06f63cb.jpg!cc_1920x740
+
 https://img12.360buyimg.com/babel/s1920x740_jfs/t1/77805/39/9943/138458/5d79ebdaE1b64510b/d65e6a21ac3d4c13.jpg!cc_1920x740
+
 https://img13.360buyimg.com/babel/s1920x740_jfs/t1/53780/2/11369/109786/5d834aa4E7ccacd46/8c562ae78ff6d475.jpg!cc_1920x740
 
 --------------------------------------
@@ -65,3 +67,59 @@ https://img13.360buyimg.com/babel/s1920x740_jfs/t1/53780/2/11369/109786/5d834aa4
         http://localhost:3000/api/list     列表接口                                        
                       
 
+     banner.json   http://localhost:3000/api/banner 
+     product.json  http://localhost:3000/api/list 
+     
+     
+     {
+        "product" : [
+            {
+                img : "",
+                xprice : 998,
+                yprice : 98,
+                name : ""
+            },
+             {
+                            img : "",
+                            xprice : 998,
+                            yprice : 98,
+                            name : ""
+                        },
+                         {
+                                        img : "",
+                                        xprice : 998,
+                                        yprice : 98,
+                                        name : ""
+                                    },
+                                     {
+                                                    img : "",
+                                                    xprice : 998,
+                                                    yprice : 98,
+                                                    name : ""
+                                                }
+        ] 
+     }  
+     
+     
+     
+## 作业
+
+    1. 创建首页，完成静态布局
+    2. 将首页静态的数据替换成动态的 （轮播图的数据，商品的数据） 
+    3. 完成登陆页面 （点击我的 -》 登陆页面 -》 点击立即注册 -》 注册页面）
+    4. 完成注册页面 （注册成功 -》 进入登陆页 ）
+    5. 登陆成功之后跳转到页面
+    
+    要求：
+        1. 首页的数据放到一个json文件里面  接口名称为 /api/index
+        2. 登陆的接口名称为   /api/login   参数： username userpass
+        3. 注册的接口名称为   /api/register  参数： user pass
+        
+        
+        第一步： 数据发送给后台
+        第二步： 后台接收数据
+        第三步： 将数据存到文件里面
+        第四步： 返回数据 
+        
+        
+作业参考地址： http://mob.rimulahome.com     

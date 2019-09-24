@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <ul id="list">
+
+    </ul>
+</body>
+</html>
+<script src="js/jquery-1.11.2.min.js"></script>
+<script>
+
+    var arr = [
+        {
+            name : "英雄联盟",
+            age : 7
+        },
+        {
+            name : "王者荣耀",
+            age :4
+        },
+        {
+            name : "QQ飞车",
+            age : 2
+        },
+        {
+            name : "DNF",
+            age : 11
+        }
+
+    ];
+
+
+    var list = document.getElementById("list");
+    for(var i=0;i<arr.length;i++){
+        var li = document.createElement("li");
+        li.innerHTML = arr[i].name;  // {name : "王者荣耀"，age 2}
+        list.append(li);
+    }
+
+
+</script>
