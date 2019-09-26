@@ -3,133 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5f56970b-141d-426a-bfca-b6b2c31c1f90" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/5day/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/AUTHORS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/dist/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/dist/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/dist/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/dist/jquery.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/dist/jquery.slim.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/dist/jquery.slim.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/dist/jquery.slim.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/external/sizzle/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/external/sizzle/dist/sizzle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/external/sizzle/dist/sizzle.min.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/.eslintrc.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax/jsonp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax/load.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax/parseXML.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax/var/location.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax/var/nonce.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax/var/rquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/ajax/xhr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/attributes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/attributes/attr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/attributes/classes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/attributes/prop.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/attributes/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/attributes/val.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/callbacks.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/DOMEval.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/access.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/camelCase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/isAttached.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/nodeName.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/parseHTML.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/ready-no-deferred.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/ready.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/readyException.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/stripAndCollapse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/toType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/core/var/rsingleTag.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/addGetHookIf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/adjustCSS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/curCSS.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/finalPropName.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/showHide.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/var/cssExpand.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/var/getStyles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/var/rboxStyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/css/var/swap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/data/Data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/data/var/acceptData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/data/var/dataPriv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/data/var/dataUser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/deferred.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/deferred/exceptionHook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/deprecated.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/dimensions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/effects.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/effects/Tween.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/effects/animatedSelector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/event.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/event/ajax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/event/alias.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/event/focusin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/event/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/event/trigger.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/exports/amd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/exports/global.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation/buildFragment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation/getAll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation/setGlobalEval.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation/var/rscriptType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation/var/rtagName.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/manipulation/wrapMap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/offset.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/queue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/queue/delay.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/selector-native.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/selector-sizzle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/selector.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/serialize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/traversing.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/traversing/findFilter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/traversing/var/dir.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/traversing/var/siblings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/ObjectFunctionString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/arr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/class2type.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/concat.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/document.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/documentElement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/fnToString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/getProto.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/hasOwn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/indexOf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/isFunction.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/isWindow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/pnum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/push.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/rcheckableType.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/rcssNum.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/rnothtmlwhite.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/slice.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/var/toString.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/_jquery@3.4.1@jquery/src/wrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5day/node_modules/jquery" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -143,40 +16,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5day/app/index.js">
+        <entry file="file://$PROJECT_DIR$/6day/homework/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5day/app/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="3149">
+              <caret line="119" column="19" lean-forward="true" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5day/app/public/index.html">
+        <entry file="file://$PROJECT_DIR$/6day/homework/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+            <state>
+              <caret selection-end-line="26" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5day/app/package.json">
+        <entry file="file://$PROJECT_DIR$/6day/homework/router/v.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+            <state relative-caret-position="243">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6day/homework/data/user.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/6day/homework/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -185,19 +64,10 @@
         <entry file="file://$PROJECT_DIR$/5day/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="602">
-                <caret line="86" column="24" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="24" />
+              <first_editor relative-caret-position="114">
+                <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5day/app/router/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -219,11 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2day/01-中文乱码问题.js" />
-        <option value="$PROJECT_DIR$/2day/01-中文乱码问题2.js" />
-        <option value="$PROJECT_DIR$/2day/02-get.js" />
-        <option value="$PROJECT_DIR$/2day/index.html" />
-        <option value="$PROJECT_DIR$/2day/03-post.js" />
         <option value="$PROJECT_DIR$/2day/post.html" />
         <option value="$PROJECT_DIR$/2day/04-read.js" />
         <option value="$PROJECT_DIR$/2day/04-read2.js" />
@@ -265,11 +130,16 @@
         <option value="$PROJECT_DIR$/5day/笔记.txt" />
         <option value="$PROJECT_DIR$/5day/app/index.js" />
         <option value="$PROJECT_DIR$/5day/app/router/api.js" />
-        <option value="$PROJECT_DIR$/5day/README.md" />
         <option value="$PROJECT_DIR$/5day/app/router/index.js" />
         <option value="$PROJECT_DIR$/5day/app/index.html" />
         <option value="$PROJECT_DIR$/5day/app/app.js" />
         <option value="$PROJECT_DIR$/5day/app/public/index.html" />
+        <option value="$PROJECT_DIR$/6day/homework/index.html" />
+        <option value="$PROJECT_DIR$/6day/homework/router/index.js" />
+        <option value="$PROJECT_DIR$/6day/homework/public/index.html" />
+        <option value="$PROJECT_DIR$/5day/README.md" />
+        <option value="$PROJECT_DIR$/6day/homework/router/v.js" />
+        <option value="$PROJECT_DIR$/6day/homework/app.js" />
       </list>
     </option>
   </component>
@@ -297,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -307,48 +178,48 @@
             <path>
               <item name="1904A" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904A" type="462c0819:PsiDirectoryNode" />
-              <item name="5day" type="462c0819:PsiDirectoryNode" />
+              <item name="6day" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1904A" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904A" type="462c0819:PsiDirectoryNode" />
-              <item name="5day" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="6day" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="1904A" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904A" type="462c0819:PsiDirectoryNode" />
-              <item name="5day" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="6day" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/5day/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/6day/homework" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/5day/app/public" />
-      <recent name="$PROJECT_DIR$/3day/data" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6day/homework" />
       <recent name="$PROJECT_DIR$/5day/app" />
       <recent name="$PROJECT_DIR$/4day" />
       <recent name="$PROJECT_DIR$/3day" />
       <recent name="$PROJECT_DIR$/2day/liuyan" />
-      <recent name="$PROJECT_DIR$/2day" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/6day/homework/public" />
+      <recent name="$PROJECT_DIR$/5day/app/public" />
+      <recent name="$PROJECT_DIR$/3day/data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -379,15 +250,16 @@
       <workItem from="1569286483243" duration="7768000" />
       <workItem from="1569372082955" duration="3711000" />
       <workItem from="1569375898561" duration="3303000" />
-      <workItem from="1569382711622" duration="6713000" />
+      <workItem from="1569382711622" duration="6963000" />
+      <workItem from="1569458255367" duration="7054000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43545000" />
+    <option name="totallyTimeSpent" value="50849000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="23" width="1392" height="797" extended-state="0" />
+    <frame x="33" y="23" width="1392" height="797" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
@@ -424,49 +296,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2day/liuyan/list.html" />
-    <entry file="file://$PROJECT_DIR$/2day/data/a.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2day/liuyan/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2day/06-unlink.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2day/05-write.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2day/05-write2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2day/data/mock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="19" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2day/04-read2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -709,13 +538,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5day/app/js/jquery-1.11.2.min.js">
+    <entry file="file://$PROJECT_DIR$/5day/app/public/js/jquery-1.11.2.min.js">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5day/app/router/api.js" />
+    <entry file="file://$PROJECT_DIR$/5day/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5day/app/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5day/app/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5day/app/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -729,41 +580,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5day/app/router/api.js">
+    <entry file="file://$PROJECT_DIR$/6day/homework/public/js/jquery-1.11.2.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6day/homework/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="297">
+          <caret line="11" column="15" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5day/app/router/index.js">
+    <entry file="file://$PROJECT_DIR$/6day/homework/data/user.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6day/homework/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3149">
+          <caret line="119" column="19" lean-forward="true" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/5day/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="602">
-            <caret line="86" column="24" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="24" />
+          <first_editor relative-caret-position="114">
+            <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5day/app/app.js">
+    <entry file="file://$PROJECT_DIR$/6day/homework/router/v.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="243">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5day/app/public/index.html">
+    <entry file="file://$PROJECT_DIR$/6day/homework/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+        <state relative-caret-position="96">
+          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6day/homework/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" selection-end-column="2" />
         </state>
       </provider>
     </entry>
