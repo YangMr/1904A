@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        *{margin: 0; padding: 0;}
+        .header{height: 50px; background: #333;}
+        .header .center{width: 1000px; margin: 0 auto; background: pink;}
+        .header .logo{float: left; width: 100px; font-weight: bold; color: #fff; height: 50px; line-height: 50px;}
+        .header ul{list-style: none;}
+        .header ul li{float: left; height: 50px; line-height: 50px; color: #fff; text-align: center; width: 150px;}
+        .container{ width: 1000px;  padding: 30px 0; margin: 0 auto;}
+        .footer{height: 60px; background: #000;}
+        h4{text-align: center; padding: 10px 0;}
+        .banner,.list{display: none;}
+        input{width: 100%; border-radius: 3px; height: 30px; border: 1px solid #ccc; text-indent: 22px;}
+        button{width: 100%; margin-top: 10px; height: 30px; background: mediumpurple; color: #fff; border-radius: 3px;}
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="center">
+            <div class="logo">LOGO</div>
+            <ul>
+                <li>轮播图</li>
+                <li>列表</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <h1>嗨，欢迎进入后台管理页面</h1>
+
+        <div class="banner box">
+            <h4>轮播图编辑</h4>
+            <p>
+                <input type="text" placeholder="请输入轮播地址">
+            </p>
+            <p>
+                <button>添加</button>
+            </p>
+        </div>
+
+        <div class="list box">
+            <h4>列表编辑</h4>
+            <p>
+                <input id="list" type="text" placeholder="请输入要添加的列表内容">
+            </p>
+            <p>
+                <button id="add">添加</button>
+            </p>
+        </div>
+    </div>
+
+    <div class="footer">
+
+    </div>
+</body>
+</html>
+<script src="js/jquery-1.11.2.min.js"></script>
+<script>
+    //等待页面所有dom元素加载完毕之后在执行
+    $(function () {
+        $("ul li").click(function () {
+            var _index = $(this).index();
+            $(".box").eq(_index).show().siblings().hide();
+        })
+
+
+
+        $("#add").click(function () {
+            var list = $("#list").val();
+
+            $.ajax({
+                url : "/api/writelist",
+                data : {
+                    name : list
+                },
+                success : function (response) {
+                    console.log(response)
+                },
+                error : function (error) {
+                    console.log(error)
+                }
+            })
+        })
+    })
+
+</script>
