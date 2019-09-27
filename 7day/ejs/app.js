@@ -21,7 +21,7 @@ app.get("/",function (req,res,next) {
         if(error){
             console.log(error)
         }else{
-            res.render("index.html",{
+            res.render("index.ejs.html",{
                 title : "hello",
                 data : JSON.parse(data),
                 flag : false
