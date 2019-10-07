@@ -1,0 +1,71 @@
+{
+  "category1" : [
+    "京东超市",
+    "国际名牌",
+    "奢侈品",
+    "海囤全球",
+    "唯品会",
+    "男装",
+    "女张",
+    "男鞋",
+    "女鞋",
+    "内衣配饰",
+    "香包手袋",
+    "美妆护肤"
+  ],
+  "category2" : {
+    "hot" : [
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      }
+    ],
+    "shangyi" : [
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      },
+      {
+        "img" : "https://img14.360buyimg.com/focus/s140x140_jfs/t27136/183/1628977274/31007/a6f7ed55/5be6ebd8Nb07ef492.png",
+        "text" : "女装新品"
+      }
+    ]
+  }
+ 
+}
