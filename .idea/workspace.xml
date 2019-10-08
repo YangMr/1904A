@@ -16,85 +16,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9day/lesson4/app.js">
+        <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/views/login.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="328">
+              <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9day/lesson4/routes/api.js">
+        <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" selection-start-line="6" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9day/lesson4/routes/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9day/lesson4/views/index.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9day/lesson3/public/demo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="343">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/9day/lesson4/views/list.ejs">
+        <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="19" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="243">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9day/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="486">
-                <caret line="18" column="16" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="18" selection-end-column="16" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/views/about.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9day/lesson4/data/list.json">
+        <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/data/data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/9day/lesson4/views/news.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            <state relative-caret-position="27">
+              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -116,17 +77,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/7day/ejs/data/data.json" />
-        <option value="$PROJECT_DIR$/7day/ejs/views/index.ejs" />
-        <option value="$PROJECT_DIR$/7day/ejs/app.js" />
-        <option value="$PROJECT_DIR$/7day/dirname.js" />
-        <option value="$PROJECT_DIR$/7day/file.js" />
-        <option value="$PROJECT_DIR$/7day/join.js" />
-        <option value="$PROJECT_DIR$/7day/resolve.js" />
-        <option value="$PROJECT_DIR$/7day/parse.js" />
-        <option value="$PROJECT_DIR$/7day/http.js" />
-        <option value="$PROJECT_DIR$/7day/nor.js" />
-        <option value="$PROJECT_DIR$/7day/homework/views/index.html" />
         <option value="$PROJECT_DIR$/7day/homework/views/admin.html" />
         <option value="$PROJECT_DIR$/7day/homework/data/list.json" />
         <option value="$PROJECT_DIR$/7day/homework/views/index.ejs" />
@@ -167,6 +117,17 @@
         <option value="$PROJECT_DIR$/9day/lesson4/views/list.ejs" />
         <option value="$PROJECT_DIR$/9day/lesson4/routes/index.js" />
         <option value="$PROJECT_DIR$/9day/lesson4/views/index.ejs" />
+        <option value="$PROJECT_DIR$/10day/yl-1904A-20191008/bin/www" />
+        <option value="$PROJECT_DIR$/10day/yl-1904A-20191008/data/news.json" />
+        <option value="$PROJECT_DIR$/10day/yl-1904A-20191008/app.js" />
+        <option value="$PROJECT_DIR$/10day/yl-1904A-20191008/routes/api.js" />
+        <option value="$PROJECT_DIR$/10day/yl-1904A-20191008/views/index.ejs" />
+        <option value="$PROJECT_DIR$/10day/yangmr-1904A-20191008/bin/www" />
+        <option value="$PROJECT_DIR$/10day/yangmr-1904A-20191008/app.js" />
+        <option value="$PROJECT_DIR$/10day/yangmr-1904A-20191008/data/data.json" />
+        <option value="$PROJECT_DIR$/10day/yangmr-1904A-20191008/routes/about.ejs" />
+        <option value="$PROJECT_DIR$/10day/yangmr-1904A-20191008/views/login.ejs" />
+        <option value="$PROJECT_DIR$/10day/yangmr-1904A-20191008/routes/index.js" />
       </list>
     </option>
   </component>
@@ -211,27 +172,7 @@
             <path>
               <item name="1904A" type="b2602c69:ProjectViewProjectNode" />
               <item name="1904A" type="462c0819:PsiDirectoryNode" />
-              <item name="9day" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1904A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1904A" type="462c0819:PsiDirectoryNode" />
-              <item name="9day" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1904A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1904A" type="462c0819:PsiDirectoryNode" />
-              <item name="9day" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="1904A" type="b2602c69:ProjectViewProjectNode" />
-              <item name="1904A" type="462c0819:PsiDirectoryNode" />
-              <item name="9day" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson4" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="10day" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -243,7 +184,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/9day/lesson4/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/10day/yangmr-1904A-20191008/data" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -251,19 +192,19 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10day/yangmr-1904A-20191008/data" />
+      <recent name="$PROJECT_DIR$/10day/yangmr-1904A-20191008/public" />
+      <recent name="$PROJECT_DIR$/10day/yl-1904A-20191008/public" />
+      <recent name="$PROJECT_DIR$/9day/lesson4/public" />
+      <recent name="$PROJECT_DIR$/9day/lesson4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10day/yangmr-1904A-20191008/views" />
       <recent name="$PROJECT_DIR$/9day/lesson3/public" />
       <recent name="$PROJECT_DIR$/7day" />
       <recent name="$PROJECT_DIR$/6day/blog/public" />
       <recent name="$PROJECT_DIR$/6day/homework/public" />
-      <recent name="$PROJECT_DIR$/5day/app/public" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/9day/lesson4/public" />
-      <recent name="$PROJECT_DIR$/9day/lesson4" />
-      <recent name="$PROJECT_DIR$/9day" />
-      <recent name="$PROJECT_DIR$/9day/lesson1/public" />
-      <recent name="$PROJECT_DIR$/8day/cart" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,15 +257,16 @@
       <workItem from="1569650834202" duration="2801000" />
       <workItem from="1570408801690" duration="3666000" />
       <workItem from="1570427634600" duration="4744000" />
+      <workItem from="1570515678918" duration="781000" />
+      <workItem from="1570516495999" duration="2934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81598000" />
+    <option name="totallyTimeSpent" value="85313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="38" y="23" width="1392" height="797" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16921955" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -384,85 +326,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/7day/1569567933_777621.png" />
-    <entry file="file://$PROJECT_DIR$/7day/homework/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7day/homework/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7day/homework/data/list.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7day/homework/views/admin.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7day/homework/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8day/myapp/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="22" selection-start-line="7" selection-start-column="4" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8day/myapp/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8day/myapp/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8day/myapp/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8day/myapp/routes/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="32" selection-start-line="4" selection-start-column="24" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8day/myapp/views/error.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8day/project/views/index.ejs" />
     <entry file="file://$PROJECT_DIR$/7day/笔记.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
@@ -650,39 +513,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/9day/lesson4/views/news.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9day/lesson4/data/list.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/9day/lesson4/public/js/jquery-1.11.2.min.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9day/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="486">
-            <caret line="18" column="16" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="18" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/9day/lesson4/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9day/lesson4/routes/api.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -707,15 +539,129 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/9day/lesson3/public/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="189">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9day/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="486">
+            <caret line="18" column="16" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="18" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9day/lesson4/data/list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9day/lesson4/views/news.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/9day/lesson4/views/list.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
-          <caret line="19" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        <state relative-caret-position="216">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9day/lesson4/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yl-1904A-20191008/data/news.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yl-1904A-20191008/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yl-1904A-20191008/public/js/jquery-1.11.2.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yl-1904A-20191008/routes/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yl-1904A-20191008/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yl-1904A-20191008/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/public/js/jquery-1.11.2.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/data/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/views/about.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/views/login.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10day/yangmr-1904A-20191008/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
