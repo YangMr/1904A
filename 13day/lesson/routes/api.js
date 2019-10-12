@@ -85,6 +85,28 @@ router.get("/del",function (req,res,next) {
             })
         }
     })
+});
+
+
+//创建修改数据的接口
+router.get("/update",function (req,res,next) {
+
+    var data = req.query;
+
+    userModel.update(data.f,data.cData,function (error) {
+        if(error){
+            res.send({
+                code : 5,
+                message : "数据修改失败"
+            })
+        }else{
+            res.send({
+                code : 0,
+                message : "数据修改成功"
+            })
+        }
+    })
+
 })
 
 

@@ -70,7 +70,7 @@
                         <td><%= data[i].sex %></td>
                         <td>
                             <button v="<%= data[i]._id%>" type="button" class="btn del btn-primary">删除</button>
-                            <button type="button" class="btn  btn-primary">编辑</button>
+                            <button type="button" class="btn edit  btn-primary" data-toggle="modal" data-target="#myModal">编辑</button>
                         </td>
                     </tr>
                 <%}%>
@@ -84,6 +84,32 @@
             </tfoot>
         </table>
 
+
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                        <h4 class="modal-title" id="myModalLabel">修改数据</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label for="changeInputName">姓名</label>
+                            <input type="text" class="form-control" id="changeInputName" placeholder="年龄">
+                        </div>
+                        <div class="form-group">
+                            <label for="changeInputAge">年龄</label>
+                            <input type="text" class="form-control" id="changeInputAge" placeholder="年龄">
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                        <button type="button" class="btn btn-primary save" data-dismiss="modal">保存</button>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
 <!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
@@ -135,7 +161,7 @@
 
                                     for(var i=0;i<data.length;i++){
                                         var tr = document.createElement("tr");
-                                        tr.innerHTML = "<td>"+ data[i].id+"</td><td>"+ data[i].name+"</td><td>"+data[i].age+"</td><td>"+data[i].sex+"</td><td> <button type='button' v='"+ data[i]._id +"'  class='btn del btn-primary'>删除</button><button type='button' class='btn btn-primary'>编辑</button></td>";
+                                        tr.innerHTML = "<td>"+ data[i].id+"</td><td>"+ data[i].name+"</td><td>"+data[i].age+"</td><td>"+data[i].sex+"</td><td> <button type='button' v='"+ data[i]._id +"'  class='btn del btn-primary'>删除</button><button type='button' class='btn btn-primary' data-toggle='modal' data-target='#myModal'>编辑</button></td>";
                                         $("tbody").append(tr);
                                     }
 
@@ -183,8 +209,7 @@
 
         //点击删除单个数据
         $("body").on("click",".del",function () {
-
-
+      
 
             $.ajax({
                 url : "/api/del",
@@ -221,6 +246,64 @@
                 }
             })
 
+        })
+
+
+        $(".edit").click(function () {
+            var i = $(this).prev().attr("v");
+            $(".save").attr("_id",i);
+        })
+
+
+        // //点击保存按钮，让模态框消失
+        $(".save").click(function () {
+            //获取要修改的姓名数据
+            var cName = $("#changeInputName").val();
+            //获取要修改的年龄数据
+            var cAge = $("#changeInputAge").val();
+
+
+
+            $.ajax({
+                url : "/api/update",
+                data : {
+                   f : {
+                       _id : $(this).attr("_id")
+                   },
+                   cData : {
+                       name : cName,
+                       age : cAge
+                   }
+                },
+                success : function (response) {
+                    console.log(response)
+                    if(response.code ==0){
+                        $.ajax({
+                            url : "/api/read",
+                            success : function (response) {
+                                if(response.code == 0){
+                                    $("tbody").html("");
+
+                                    console.log(response.data)
+                                    var data = response.data;
+
+                                    for(var i=0;i<data.length;i++){
+                                        var tr = document.createElement("tr");
+                                        tr.innerHTML = "<td>"+ data[i].id+"</td><td>"+ data[i].name+"</td><td>"+data[i].age+"</td><td>"+data[i].sex+"</td><td> <button type='button' v='"+ data[i]._id +"'  class='btn del btn-primary'>删除</button><button type='button' class='btn btn-primary'>编辑</button></td>";
+                                        $("tbody").append(tr);
+                                    }
+                                }
+                            },
+                            error : function (error) {
+                                console.log(error)
+                            }
+                        })
+                    }
+                },
+                error : function (error) {
+                    console.log(error)
+                }
+            })
         })
     })
 

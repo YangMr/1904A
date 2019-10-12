@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f56970b-141d-426a-bfca-b6b2c31c1f90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/.package_versions.json" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/.package_versions.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/.recently_updates.txt" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/.recently_updates.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/_accepts@1.3.7@accepts/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/_accepts@1.3.7@accepts/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/_array-flatten@1.1.1@array-flatten/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/_array-flatten@1.1.1@array-flatten/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/_basic-auth@2.0.1@basic-auth/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/_basic-auth@2.0.1@basic-auth/package.json" afterDir="false" />
@@ -76,8 +74,6 @@
       <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/_unpipe@1.0.0@unpipe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/_unpipe@1.0.0@unpipe/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/_utils-merge@1.0.1@utils-merge/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/_utils-merge@1.0.1@utils-merge/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/_vary@1.1.2@vary/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/_vary@1.1.2@vary/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/ms" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/ms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13day/lesson/node_modules/safe-buffer" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/node_modules/safe-buffer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13day/lesson/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/routes/api.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/13day/lesson/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/13day/lesson/views/index.ejs" afterDir="false" />
     </list>
@@ -107,8 +103,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/13day/lesson/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="209" column="37" selection-start-line="209" selection-start-column="37" selection-end-line="209" selection-end-column="37" />
+            <state relative-caret-position="380">
+              <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+              <folding>
+                <element signature="e#3665#3672#1#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/13day/lesson/routes/api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="19" />
+            <state relative-caret-position="-16">
+              <caret line="82" column="10" lean-forward="true" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -389,12 +388,12 @@
       <workItem from="1570601929383" duration="5379000" />
       <workItem from="1570610931406" duration="1081000" />
       <workItem from="1570667556221" duration="7671000" />
-      <workItem from="1570754661187" duration="14961000" />
+      <workItem from="1570754661187" duration="17995000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114554000" />
+    <option name="totallyTimeSpent" value="117588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1392" height="797" extended-state="0" />
@@ -759,15 +758,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/13day/lesson/routes/api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="74" column="15" selection-start-line="74" selection-start-column="15" selection-end-line="74" selection-end-column="19" />
+        <state relative-caret-position="-16">
+          <caret line="82" column="10" lean-forward="true" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/13day/lesson/views/index.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="209" column="37" selection-start-line="209" selection-start-column="37" selection-end-line="209" selection-end-column="37" />
+        <state relative-caret-position="380">
+          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
+          <folding>
+            <element signature="e#3665#3672#1#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
